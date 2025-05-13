@@ -1,29 +1,31 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`Pontífica Universidade Católica de Minas Gerais-Coração Eucarístico`
 
-`CURSO`
+`Engenhraria de Computação`
 
-`SEMESTRE`
+`1°`
 
-`DISCIPLINA`
+`Laboratório de Introdução a Computação`
 
 
 ## Integrantes
 
+* Carlos Eduardo Farias de Oliveira
+* Eddu Fagundes Fernandes
 * Gabriel Silva Cardoso
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Henrique Silva Guimarães
+* Pedro Henrique de Jesus
+* Ulisses Augusto Oliveira da Silva Vieira
 
 ## Orientador
 
-* Nome completo do professor 1
-
+* Felipe Augusto Lara Soares
+* Naísses Zóia Lima
+* Sandro Jerônimo de Almeida
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O trabalho em pauta, define o funcionamento de um goleiro de futebol que consegue fazer defesas de níveis fáceis, médios e difíceis. O objetivo principal do jogo é conseguir fazer gols nos determinados níveis selecionados pelo aplicativo app inventor, ligado ao jogo diretamente pelo celular.
 
 # Código (do arduino ou esp32)
 
