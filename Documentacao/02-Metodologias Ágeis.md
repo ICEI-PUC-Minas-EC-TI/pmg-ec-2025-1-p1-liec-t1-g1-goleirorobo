@@ -23,8 +23,12 @@ Essa metodologia permitiu uma comunicação clara, divisão equilibrada de respo
 
 ### Divisão de Papéis
 
-- Scrum Master: Henrique 
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+- Scrum Master: Henrique Silva Guimarães.
+- Equipe de Desenvolvimento: Carlos Eduardo Farias de Oliveira,Eddu Fagundes Fernandes,Gabriel Silva Cardoso,Henrique Silva Guimarães,Pedro Henrique de Jesus,Ulisses Augusto Oliveira da Silva Vieira.
+- Github e Trello: Gabriel Silva Cardoso e Ulisses Augusto Oliveira da Silva Vieira.
+- Desenvolvimento APP Inventor: Eddu Fagundes Fernandes,Pedro Henrique de Jesus.
+- Desenvolvimento do Código do ESP 32: Henrique Silva Guimarães,Carlos Eduardo Farias de Oliveira.
+- Montagem do projeto: Carlos Eduardo Farias de Oliveira,Eddu Fagundes Fernandes,Gabriel Silva Cardoso,Henrique Silva Guimarães,Pedro Henrique de Jesus,Ulisses Augusto Oliveira da Silva Vieira.
 
 
 ### Processo
