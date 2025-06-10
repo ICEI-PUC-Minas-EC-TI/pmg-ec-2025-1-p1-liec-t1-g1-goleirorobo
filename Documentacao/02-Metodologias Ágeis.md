@@ -23,7 +23,7 @@ Essa metodologia permitiu uma comunicação clara, divisão equilibrada de respo
 
 ### Divisão de Papéis
 
-- Scrum Master: Pedro Henrique de Jesus
+- Scrum Master: Pedro Henrique de Jesus.
  
 - Equipe de Desenvolvimento: Carlos Eduardo Farias de Oliveira,Eddu Fagundes Fernandes,Gabriel Silva Cardoso,Henrique Silva Guimarães,Pedro Henrique de Jesus,Ulisses Augusto Oliveira da Silva Vieira.
  
