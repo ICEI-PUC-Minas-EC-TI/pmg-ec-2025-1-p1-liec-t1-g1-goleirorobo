@@ -7,11 +7,17 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
 
 ## Objetivos
+Objetivos:
+O objetivo principal deste projeto é desenvolver um goleiro automático controlado por Arduino, capaz de detectar a aproximação de uma bola utilizando um sensor ultrassônico e reagir rapidamente movendo-se lateralmente para tentar interceptar o chute. Entre os objetivos específicos estão:
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
+Integrar conhecimentos de eletrônica, programação e mecânica.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+Utilizar sensores para captar informações do ambiente em tempo real.
+
+Criar uma aplicação prática e interativa de um sistema automatizado.
+
+Estimular o interesse por tecnologia e robótica entre jovens e estudantes.
+
 ## Público-Alvo
 
 Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
