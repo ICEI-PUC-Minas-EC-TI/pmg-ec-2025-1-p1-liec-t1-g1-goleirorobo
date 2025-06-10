@@ -1,6 +1,7 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este projeto propõe o desenvolvimento de um goleiro automático utilizando Arduino e sensor ultrassônico, com o objetivo de detectar a aproximação de uma bola e reagir de forma autônoma para defendê-la. A iniciativa surge do interesse em aplicar conceitos de robótica e automação de forma lúdica e educativa, unindo eletrônica, programação e criatividade. Voltado principalmente para estudantes e entusiastas de tecnologia, o projeto busca promover o aprendizado prático e estimular o interesse por áreas STEM, sendo ideal para oficinas, feiras de ciências e atividades escolares.
+
 
 ## Problema
 
