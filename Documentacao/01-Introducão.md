@@ -19,6 +19,6 @@ Estimular o interesse por tecnologia e robótica entre jovens e estudantes.
 
 ## Público-Alvo
 
-O projeto é voltado principalmente para estudantes do ensino fundamental II, médio e técnico,os amantes de futebol, além de professores e entusiastas de robótica e eletrônica. Pode ser utilizado tanto em ambientes educacionais quanto em eventos de divulgação científica, oficinas e atividades extracurriculares.
+O projeto é voltado principalmente para estudantes do ensino fundamental II, médio e técnico,amantes de futebol, além de professores e entusiastas de robótica e eletrônica. Pode ser utilizado tanto em ambientes educacionais quanto em eventos de divulgação científica, oficinas e atividades extracurriculares.
 
 
