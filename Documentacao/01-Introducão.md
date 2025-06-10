@@ -1,6 +1,6 @@
 # Introdução
 
-Este projeto propõe o desenvolvimento de um goleiro automático utilizando Arduino e sensor ultrassônico, com o objetivo de detectar a aproximação de uma bola e reagir de forma autônoma para defendê-la. A iniciativa surge do interesse em aplicar conceitos de robótica e automação de forma lúdica e educativa, unindo eletrônica, programação e criatividade. Voltado principalmente para estudantes e entusiastas de tecnologia, o projeto busca promover o aprendizado prático e estimular o interesse por áreas STEM, sendo ideal para oficinas, feiras de ciências e atividades escolares.
+Este projeto propõe o desenvolvimento de um goleiro automático utilizando ESP 32 e sensor ultrassônico, com o objetivo de detectar a aproximação de uma bola e reagir de forma autônoma para defendê-la. A iniciativa surge do interesse em aplicar conceitos de robótica e automação de forma lúdica e educativa, unindo eletrônica, programação e criatividade. Voltado principalmente para estudantes e entusiastas de tecnologia, o projeto busca promover o aprendizado prático e estimular o interesse por áreas STEM, sendo ideal para oficinas, feiras de ciências e atividades escolares.
 
 
 ## Problema
@@ -8,7 +8,7 @@ Este projeto propõe o desenvolvimento de um goleiro automático utilizando Ardu
 Em atividades recreativas ou testes de precisão em esportes como o futebol de mesa ou mini-futebol, muitas vezes não há uma figura fixa de goleiro, o que limita a prática de chutes ao gol ou a realização de competições mais interativas. Além disso, há uma carência de projetos acessíveis que introduzam conceitos de robótica de maneira lúdica e aplicada.
 
 ## Objetivos
-O objetivo principal deste projeto é desenvolver um goleiro automático controlado por Arduino, capaz de detectar a aproximação de uma bola utilizando um sensor ultrassônico e reagir rapidamente movendo-se lateralmente para tentar interceptar o chute. Entre os objetivos específicos estão:
+O objetivo principal deste projeto é desenvolver um goleiro automático controlado por ESP 32, capaz de detectar a aproximação de uma bola utilizando um sensor ultrassônico e reagir rapidamente movendo-se lateralmente para tentar interceptar o chute. Entre os objetivos específicos estão:
 
 Integrar conhecimentos de eletrônica, programação e mecânica.
 
