@@ -4,7 +4,7 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+Em atividades recreativas ou testes de precisão em esportes como o futebol de mesa ou mini-futebol, muitas vezes não há uma figura fixa de goleiro, o que limita a prática de chutes ao gol ou a realização de competições mais interativas. Além disso, há uma carência de projetos acessíveis que introduzam conceitos de robótica de maneira lúdica e aplicada.
 
 ## Objetivos
 O objetivo principal deste projeto é desenvolver um goleiro automático controlado por Arduino, capaz de detectar a aproximação de uma bola utilizando um sensor ultrassônico e reagir rapidamente movendo-se lateralmente para tentar interceptar o chute. Entre os objetivos específicos estão:
