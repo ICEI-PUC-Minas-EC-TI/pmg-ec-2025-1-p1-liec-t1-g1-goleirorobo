@@ -1,16 +1,25 @@
 
 # Materiais
 
-Os materiais utilizados no projeto foram:                  Quantidade dos itens:
-- Servo Motor SG-5010 Tower Pro.                           -1    
-- Módulo WiFi Bluetooth ESP32-WROOM-32U Ipex               -1 
-- Jumpers- Macho/Fema - 40 Unidades de 20cm                -1
-- Módulo Sensor de Distância Ultrassônico US-015           -6 
-- Protoboard 830 Pontos                                    -1
+Os materiais utilizados no projeto foram:                  
+1 - Servo Motor SG-5010 Tower Pro.                              
+1 - Módulo WiFi Bluetooth ESP32-WROOM-32U Ipex.               
+1 - Pacote Jumpers- Macho/Fema - 40 unidades de 20cm.             
+6 - Módulo Sensor de Distância Ultrassônico US-015.          
+1 - Protoboard 830 Pontos.
+1 - Tábua de madeira 30cm por 30cm.
+1 - Adesivo do campo 30cm por 30cm.
+1 - Jogador Club Gulliver.
+1 - Bola.
+1 - Tirante (Gol).
+1 - Goleiro.
+1 - Tela (rede do gol).
+
+
 
 # Desenvolvimento
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+Primeiro separamos o que cada um ficaria responsável de fazer,começamos  
 
 ## Desenvolvimento do Aplicativo
 
