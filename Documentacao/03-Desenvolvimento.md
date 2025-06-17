@@ -1,8 +1,12 @@
 
 # Materiais
 
-Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+Os materiais utilizados no projeto foram:                  Quantidade dos itens:
+- Servo Motor SG-5010 Tower Pro.                           -1    
+- Módulo WiFi Bluetooth ESP32-WROOM-32U Ipex               -1 
+- Jumpers- Macho/Fema - 40 Unidades de 20cm                -1
+- Módulo Sensor de Distância Ultrassônico US-015           -6 
+- Protoboard 830 Pontos                                    -1
 
 # Desenvolvimento
 
