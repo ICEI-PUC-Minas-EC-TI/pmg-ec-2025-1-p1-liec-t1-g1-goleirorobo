@@ -13,7 +13,11 @@ Primeiro separamos o que cada um ficaria responsável de fazer,começamos
 
 ## Desenvolvimento do Aplicativo
 
-### Interface
+O projeto Goleiro Robô foi desenvolvido em grupo ao longo de quatro sprints. No início, planejamos os componentes, dividimos as tarefas, elaboramos o orçamento e organizamos o fluxo de trabalho utilizando GitHub e Trello.
+
+Cada integrante ficou responsável por uma parte do projeto, como programação no Arduino, montagem da estrutura física, desenvolvimento do app no App Inventor e produção da documentação.
+
+Entre as principais atividades estiveram a montagem do goleiro, a programação dos sensores e a criação do aplicativo. A bola foi detectada com sensor ultrassônico, a estrutura foi montada e o motor lateral foi testado com sucesso, garantindo movimentos precisos, rápidos e com bom alcance.
 
 Descreva o desenvolvimento das telas do aplicativo.
 
