@@ -17,7 +17,28 @@ Entre as principais atividades estiveram a montagem do goleiro, a programação 
 
 ## Desenvolvimento do Aplicativo
 
-Descreva o desenvolvimento das telas do aplicativo.
+![3b520755-be01-4fef-ab9c-5acdca9a8135](https://github.com/user-attachments/assets/b0b0c85b-2e15-4102-b084-a090c74faaf1)
+🏗️ Estrutura da Tela Inicial
+🎨 Visual
+Imagem de fundo: Estádio iluminado (definida como plano de fundo da tela).
+
+Título: "GOLEIRO AUTOMÁTICO" com fonte grande e verde.
+
+Ícones: Mãos douradas (imagens) ao lado do título.
+
+Botão "JOGAR": Grande, verde, centralizado – leva para a próxima tela.
+
+Botão "PAREAR GOLEIRO": Pequeno, no canto inferior esquerdo – ativa o Bluetooth.
+
+Texto extra: “Texto para Legenda1” (parece ser um rótulo não finalizado).
+
+⚙️ Lógica (Blocos)
+Ao clicar em "JOGAR" → Abre a próxima tela do jogo.
+
+Ao clicar em "PAREAR GOLEIRO" → Inicia conexão Bluetooth com um dispositivo externo (robô goleiro, por exemplo).
+
+
+
 
 ### Código
 
