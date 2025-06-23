@@ -61,7 +61,29 @@ Feito com: Pode ser desenvolvido em Flutter, Unity, Android ou outro motor de ap
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
+🔧 Lógica:
+Ao clicar em "JOGAR":
+
+open another screen → Tela de dificuldade.
+
+Ao clicar em "FÁCIL", "MÉDIO" ou "DIFÍCIL":
+
+Define o nível de dificuldade com uma variável global (ex: set global dificuldade to "Fácil").
+
+Abre a próxima tela de jogo (open another screen with start value).
+
+Ao clicar em "PAREAR GOLEIRO":
+
+Abre uma tela para pareamento Bluetooth com um módulo (ex: HC-05).
+
+Usa componentes BluetoothClient para conectar ao dispositivo.
+
+🔌funcionalidade adicional (Bluetooth):
+O app esta conectado a um goleiro automatizado com motores/servos.
+
+Envia comandos via Bluetooth conforme o nível de dificuldade.
+
+Recebe dados de sensores ou controle remoto.
 
 ## Desenvolvimento do Hardware
 
