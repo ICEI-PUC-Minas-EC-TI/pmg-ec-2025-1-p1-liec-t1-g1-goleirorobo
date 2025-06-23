@@ -36,6 +36,8 @@ Texto extra: “Texto para Legenda1” (parece ser um rótulo não finalizado).
 Ao clicar em "JOGAR" → Abre a próxima tela do jogo.
 
 Ao clicar em "PAREAR GOLEIRO" → Inicia conexão Bluetooth com um dispositivo externo (robô goleiro, por exemplo).
+
+
 ![c19fadba-eab3-4a6c-9cff-e6af8c01e919](https://github.com/user-attachments/assets/b2fe4d70-3838-41c3-aa13-86a4d6278e86)
 Tela: Escolha de dificuldade (Fácil, Médio, Difícil).
 
