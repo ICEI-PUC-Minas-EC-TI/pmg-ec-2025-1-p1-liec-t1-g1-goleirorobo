@@ -1,3 +1,4 @@
 # Apresentação da Solução
 
-Use esta pasta para salvar o vídeo demonstrando o funcionamento do projeto e as fotos para documentação do mesmo.
+
+![WhatsApp Image 2025-06-24 at 12 45 10](https://github.com/user-attachments/assets/9ffeb958-36e4-48f5-8948-b23d451bb35f)
