@@ -5,3 +5,9 @@ imagem montagem 90% completo.
 ![WhatsApp Image 2025-06-24 at 15 14 19 (1)](https://github.com/user-attachments/assets/b5176e30-42ef-4b69-aadd-98a563ff03f2)
 
 
+fotos montagens:
+
+![WhatsApp Image 2025-06-24 at 16 28 35](https://github.com/user-attachments/assets/8be30bc0-eb03-47ec-85f6-298970c18109)
+
+
+![WhatsApp Image 2025-06-24 at 16 28 36](https://github.com/user-attachments/assets/c546be8e-9fdf-4af6-9480-61442c7437e8)
