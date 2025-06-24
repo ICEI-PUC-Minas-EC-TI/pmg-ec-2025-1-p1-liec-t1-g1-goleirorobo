@@ -95,13 +95,13 @@ O projeto consistiu em montar um goleiro automático que se move com base na det
 
 Planejamento: Foram escolhidos os componentes (ESP32, sensor, servo e estrutura do goleiro).
 
+
 Montagem eletrônica:
 
 O sensor ultrassônico foi ligado ao ESP32 para detectar a distância da bola.
 
 O servo motor foi conectado para mover o goleiro lateralmente.
 
-Foi usada uma fonte de 5V externa para alimentar o servo com segurança.
 
 Programação:
 
@@ -109,11 +109,13 @@ O código em C++ (via Arduino IDE) media a distância da bola.
 
 Dependendo da posição detectada, o ESP32 movia o servo para esquerda, centro ou direita.
 
+
 Montagem física:
 
 A estrutura foi feita com uma base de madeira e as traves de ferro, colocado um adesivo do campo na superficie da madeira .
 
 O goleiro foi preso ao braço do servo motor.
+
 
 Testes:
 
@@ -123,7 +125,34 @@ O goleiro respondia automaticamente à aproximação da bola.
 
 ### Desenvolvimento do Código
 
-Descreva como foi o desenvolvimento do código do arduino/ESP.
+O código foi desenvolvido para controlar um servo motor com base nas leituras de um sensor ultrassônico (HC-SR04) usando o ESP32. O funcionamento básico envolve:
+
+Configuração inicial:
+
+Definição dos pinos do TRIG e ECHO do sensor.
+
+Inicialização do servo motor (em um pino PWM).
+
+Configuração da serial para depuração.
+
+Leitura da distância:
+
+O código emite um pulso no TRIG.
+
+Mede o tempo de resposta no ECHO.
+
+Converte o tempo em distância em centímetros.
+
+Movimento do goleiro:
+
+Se a bola está próxima (abaixo de certo valor), o código decide a direção (esquerda, centro ou direita).
+
+O servo motor se move para a posição correspondente (com servo.write(ângulo)).
+
+Loop contínuo:
+
+A função loop() executa continuamente a leitura do sensor e atualiza a posição do servo conforme necessário.
+
 
 ## Comunicação entre App e Hardware
 
