@@ -38,7 +38,11 @@ Essa metodologia permitiu uma comunicação clara, divisão equilibrada de respo
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
+https://trello.com/invite/b/6848b4d3c19937f3fb0170ee/ATTIc6bc969104b79c86c2039f2114bd91647B26EC95/goleiro-robo
+
+
+![image](https://github.com/user-attachments/assets/6e9d8c35-a955-48fd-a2a2-74a4057877cf)
+
  
 
 ### Ferramentas
