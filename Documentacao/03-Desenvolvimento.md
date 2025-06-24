@@ -89,7 +89,37 @@ Recebe dados de sensores ou controle remoto.
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+ Montagem do Projeto
+ 
+O projeto consistiu em montar um goleiro automático que se move com base na detecção de uma bola, utilizando um ESP32, sensor ultrassônico e um servo motor.
+
+Planejamento: Foram escolhidos os componentes (ESP32, sensor, servo e estrutura do goleiro).
+
+Montagem eletrônica:
+
+O sensor ultrassônico foi ligado ao ESP32 para detectar a distância da bola.
+
+O servo motor foi conectado para mover o goleiro lateralmente.
+
+Foi usada uma fonte de 5V externa para alimentar o servo com segurança.
+
+Programação:
+
+O código em C++ (via Arduino IDE) media a distância da bola.
+
+Dependendo da posição detectada, o ESP32 movia o servo para esquerda, centro ou direita.
+
+Montagem física:
+
+A estrutura foi feita com uma base de madeira e as traves de ferro, colocado um adesivo do campo na superficie da madeira .
+
+O goleiro foi preso ao braço do servo motor.
+
+Testes:
+
+Foram feitos ajustes na detecção e no movimento do servo.
+
+O goleiro respondia automaticamente à aproximação da bola.
 
 ### Desenvolvimento do Código
 
