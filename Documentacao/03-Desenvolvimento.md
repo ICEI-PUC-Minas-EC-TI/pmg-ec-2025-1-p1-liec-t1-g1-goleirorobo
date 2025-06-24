@@ -156,4 +156,8 @@ A função loop() executa continuamente a leitura do sensor e atualiza a posiç�
 
 ## Comunicação entre App e Hardware
 
-Descreva como foi o processo de comunicação entre App e arduino/ESP.
+O aplicativo foi configurado para realizar o pareamento via Bluetooth com o hardware, que utiliza uma placa com suporte a Wi-Fi e Bluetooth padrão. Para isso, foram utilizados plugins do App Inventor que permitem a conexão entre o dispositivo móvel e o hardware, possibilitando a troca de informações.
+
+Durante o pareamento, o usuário pode selecionar o nível de dificuldade do goleiro. Essa seleção é enviada ao hardware na forma de um valor decimal inteiro, que representa um preset de dificuldade. Cada nível influencia no tempo de reação do goleiro, ajustando o delay de resposta do sistema.
+
+Para garantir maior robustez, foi implementado um sistema de tratamento de falhas no código fonte, incluindo um aviso (warn) em caso de erros. Além disso, foi adicionado um monitoramento via terminal, que informa o status da conexão Bluetooth e qualquer alteração realizada na dificuldade selecionada.
