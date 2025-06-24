@@ -162,6 +162,8 @@ void loop() {
 
 # Manual de Utilização
 
+[Manual_Goleiro (2).pdf](https://github.com/user-attachments/files/20890200/Manual_Goleiro.2.pdf)
+
 
 # Documentação
 
