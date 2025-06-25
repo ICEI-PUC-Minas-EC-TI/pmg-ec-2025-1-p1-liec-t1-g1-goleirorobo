@@ -115,7 +115,44 @@ Dependendo da posição detectada, o ESP32 movia o servo para esquerda, centro o
 
 Montagem física:
 
-A estrutura foi feita com uma base de madeira e as traves de ferro, colocado um adesivo do campo na superficie da madeira .
+A estrutura foi feita com uma base de madeira e as traves de ferro, colocado um adesivo do campo na superficie da madeira para acabamento.
+
+**Base cortada**
+
+![Imagem do WhatsApp de 2025-05-14 à(s) 08 59 46_f6547fa9](https://github.com/user-attachments/assets/ff5410a6-4a0f-4991-b660-e594af67aeea)
+
+**Versão Inicial do Gol**
+
+![image](https://github.com/user-attachments/assets/20548c3b-a88b-40a9-b652-4819add244eb)
+
+
+Os sensores foram presos ao uma placa de acrilico posicionada atrás do gol, foi utilizado um adesivo na face frontal para esconder os cabos que estavam posicionados atrás
+
+**Desenho técnico com cotas para manufatura da peça**
+
+![image](https://github.com/user-attachments/assets/b8c789b8-5070-4a71-bc52-7c6638c3be93)
+
+
+**Conferência de medidas**
+
+![Image](https://github.com/user-attachments/assets/4ee06d49-baab-491e-8223-ed84e7cd83ad)
+
+**Vista traseira cabos fixados**
+
+![Image](https://github.com/user-attachments/assets/bb45b274-ebc5-452a-b479-0bcbfbe1a5d6)
+
+
+O ESP32 foi posicionado na parte inferior da base com auxilio da protoboard para fixar e realizar as conexões com os jumpers. Através dos furos os cabos chegavam a parte superior da placa para conexão com os demais componentes
+
+**Vista inferior do projeto durante a montagem**
+
+![Image](https://github.com/user-attachments/assets/d96e63e3-3518-4a78-a4e7-13d010b9859a)
+
+
+**Passagem dos cabos**
+
+![Image](https://github.com/user-attachments/assets/61000cdb-85eb-4f4b-a874-ae6a52d0a2f7)
+
 
 O goleiro foi preso ao braço do servo motor.
 
