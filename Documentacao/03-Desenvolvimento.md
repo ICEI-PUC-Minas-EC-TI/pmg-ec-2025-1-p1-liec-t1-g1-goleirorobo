@@ -12,6 +12,9 @@ Os materiais utilizados no projeto foram:
 O projeto Goleiro Robô foi desenvolvido em grupo ao longo de quatro sprints. No início, planejamos os componentes, dividimos as tarefas, elaboramos o orçamento e organizamos o fluxo de trabalho utilizando GitHub e Trello.
 
 Cada integrante ficou responsável por uma parte do projeto, como programação no Arduino, montagem da estrutura física, desenvolvimento do app no App Inventor e produção da documentação.
+![image](https://github.com/user-attachments/assets/78b1aa44-95d0-41b8-b74e-43e4a17e8581)
+Primeiros Esboços do projeto
+
 
 Entre as principais atividades estiveram a montagem do goleiro, a programação dos sensores e a criação do aplicativo. A bola foi detectada com sensor ultrassônico, a estrutura foi montada e o motor lateral foi testado com sucesso, garantindo movimentos precisos, rápidos e com bom alcance. 
 
