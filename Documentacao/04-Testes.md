@@ -1,5 +1,5 @@
 # Testes do Projeto
-##Montagem Inicial utilizando TinkerCAD para validar e  testar conceitos do projeto
+## Montagem Inicial utilizando TinkerCAD para validar e  testar conceitos do projeto
 ![image](https://github.com/user-attachments/assets/b4b4c2bc-4621-40de-a091-b29a92841dc2)
 
 ## Simulação de funcionamento do código (TINKERCAD)
