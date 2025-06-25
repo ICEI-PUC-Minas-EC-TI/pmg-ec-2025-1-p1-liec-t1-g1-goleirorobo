@@ -12,7 +12,7 @@ fotos montagens:
 
 ![WhatsApp Image 2025-06-24 at 16 28 36](https://github.com/user-attachments/assets/c546be8e-9fdf-4af6-9480-61442c7437e8)
 
-vídeo do projeto completo e funcionamento:
+vídeo e foto do projeto completo e funcionamento:
 
 
 
